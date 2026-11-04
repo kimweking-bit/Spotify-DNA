@@ -1,0 +1,4 @@
+export const MAX_IMPORT_FILE_BYTES = 50 * 1024 * 1024;
+export const IMPORT_SIZE_WARNING_BYTES = 50 * 1024 * 1024;
+export const MAX_IMPORT_TOTAL_BYTES = 100 * 1024 * 1024;
+export const MAX_IMPORT_FILE_COUNT = 20;
